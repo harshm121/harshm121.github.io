@@ -12,6 +12,12 @@ permalink:  /
         MS CS Student<br>
         Georgia Institute of Technology<br>
         <a target="_blank" href="mailto:harshm121@gmail.com">Email</a> / <a target="_blank" href="https://www.linkedin.com/in/harsh-maheshwari-650039110/">LinkedIn</a>
+        <figure>
+            <blockquote cite="https://www.goodreads.com/quotes/9570805-the-choice-as-he-saw-it-was-this-you-give">
+                <p>Do we settle for the world as it is, or do we work for the world as it should be?</p>
+            </blockquote>
+            <figcaption>—Barack Obama</figcaption>
+        </figure>
     </div>
 </div>
 <hr>
