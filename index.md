@@ -243,7 +243,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 
 <a name="/projects"></a> -->
 
-# Other projects
+<!-- # Other projects -->
 
 <!-- <div class="row">
     <div class="col-sm-12">
