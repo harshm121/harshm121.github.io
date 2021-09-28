@@ -1,0 +1,9 @@
+encoding: utf-8
+name: Harsh Maheshwari
+url: http://harshm121.com
+author:
+  name: Harsh Maheshwari
+  email: harshm121@gmail.com
+description: MS CS at Georgia Institute of Technology
+permalink: /posts/:title/
+include: ['_pages']
