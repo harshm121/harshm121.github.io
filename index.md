@@ -63,7 +63,7 @@ I am a first year MS Student in the department of Computer Science at Georgia In
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
 For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic.
-My CV is available [here][https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf].
+My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
@@ -79,7 +79,7 @@ My CV is available [here][https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//flipkart.com"><img style="width:120px;" src="/images/logos/flipkart.jpeg"></a>
+            <a href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
         </div>
         <div class="logo-desc">
             Data Scientist - Flipkart<br>
@@ -89,7 +89,7 @@ My CV is available [here][https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img src="/img/logos/gatech.png"></a>
+            <a target="_blank" href="//gatech.edu"><img src="/image/logos/gatech.png"></a>
         </div>
         <div class="logo-desc">
             MS -  Georgia Tech<br>
