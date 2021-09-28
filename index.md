@@ -11,7 +11,7 @@ permalink:  /
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         MS CS Student<br>
         Georgia Institute of Technology<br>
-        hmaheshwari7@gatech.edu
+        <a target="_blank" href="mailto:harshm121@gmail.com">Email</a> / <a target="_blank" href="https://www.linkedin.com/in/harsh-maheshwari-650039110/">LinkedIn</a>
     </div>
 </div>
 <hr>
@@ -70,8 +70,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <h2 class="pubt">"CoSIR: Optimal control of SIR epidemic dynamics by mapping to Lotka-Volterra System</h2>
 <p class="pubd">
     <span class="authors">Harsh Maheshwari, Shreyas Shetty, Nayana Bannur, Srujana Merugu</span><br>
-    <span class="conf">ICLR'21 MLPCP Workshop</span><br>
-    <span class="conf">CHIL'21 Workshop</span><br>
+    <span class="conf">ICLR'21 MLPCP Workshop, CHIL'21 Workshop</span><br>
     <span class="conf">Under review at NeurIPS 2021</span><br>
     <span class="links">
         <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v2">Paper</a>
