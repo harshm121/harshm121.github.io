@@ -309,7 +309,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <tr>
       <td>
         <br>
-        <p align="right"><font size="1">
+        <p align="right"><font size="2">
           <a href="https://abhishekdas.com/">(Courtesy: Abhishek Das)</a>
           <!-- <a href="http://www.cs.berkeley.edu/~barron/"> this website</a> -->
           </font>
