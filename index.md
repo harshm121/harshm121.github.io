@@ -36,7 +36,7 @@ For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsind
 My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
 
 <div class="row" id="timeline-logos">
-    <div class="col-xs-3">
+    <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
@@ -46,7 +46,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             2015 - 2019
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
@@ -56,7 +56,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             2019-2021
         </div>
     </div>
-    <div class="col-xs-2">
+    <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
