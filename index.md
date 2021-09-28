@@ -15,7 +15,7 @@ permalink:  /
         <br>
         <figure>
             <blockquote cite="https://www.goodreads.com/quotes/9570805-the-choice-as-he-saw-it-was-this-you-give">
-                <p>"Do we settle for the world as it is, or do we work for the world as it should be?"</p>
+                <p>Do we settle for the world as it is, or do we work for the world as it should be?</p>
                 <figcaption>— Barack Obama</figcaption>
             </blockquote>
             
@@ -75,7 +75,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 # Publications and Preprints
 
 <a name="/cosir"></a>
-<h2 class="pubt">"CoSIR: Optimal control of SIR epidemic dynamics by mapping to Lotka-Volterra System</h2>
+<h2 class="pubt">CoSIR: Optimal control of SIR epidemic dynamics by mapping to Lotka-Volterra System</h2>
 <p class="pubd">
     <span class="authors">Harsh Maheshwari, Shreyas Shetty, Nayana Bannur, Srujana Merugu</span><br>
     <span class="conf">ICLR'21 MLPCP Workshop, CHIL'21 Workshop</span><br>
@@ -102,7 +102,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <hr>
 
 <a name="/supermart"></a>
-<h2 class="pubt">"Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace</h2>
+<h2 class="pubt">Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace</h2>
 <p class="pubd">
     <span class="authors">Shreyas S<sup>*</sup>, Harsh Maheshwari<sup>*</sup>, Avijit Saha<sup>*</sup>, Samik Datta<sup>*</sup>, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S</span><br>
     <span class="links">
@@ -121,7 +121,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <hr>
 
 <a name="/adaptiveforecast"></a>
-<h2 class="pubt">"Adaptive COVID-19 Forecasting via Bayesian Optimization</h2>
+<h2 class="pubt">Adaptive COVID-19 Forecasting via Bayesian Optimization</h2>
 <p class="pubd">
     <span class="authors">Nayana Bannur, Harsh Maheshwari, Sansiddh Jain, Shreyas Shetty, Srujana Merugu, Alpan Raval</span><br>
     <span class="conf">CoDS-COMAD 2021</span><br>
