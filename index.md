@@ -51,7 +51,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img src="/image/logos/gatech.jpeg"></a>
+            <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
         </div>
         <div class="logo-desc">
             MS -  Georgia Tech<br>
