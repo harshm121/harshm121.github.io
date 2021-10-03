@@ -84,6 +84,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
         <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v2">Paper</a>
         <a target="_blank" href="https://github.com/dsindiavscovid/CoSIR">Code</a>
         <a target="_blank" href="http://cosir.herokuapp.com/">Demo</a>
+        <a target="_blank" href="https://harshm121.github.io/PDFs/CoSIR_CHIL_poster.pdf">Poster</a>
     </span>
 </p>
 <img src="/images/cosir/cosir.png">
