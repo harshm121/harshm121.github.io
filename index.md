@@ -79,7 +79,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <p class="pubd">
     <span class="authors">Harsh Maheshwari, Shreyas Shetty, Nayana Bannur, Srujana Merugu</span><br>
     <span class="conf">ICLR'21 MLPCP Workshop, CHIL'21 Workshop</span><br>
-    <span class="conf">Under review at NeurIPS 2021</span><br>
+    <!-- <span class="conf">Under review at NeurIPS 2021</span><br> -->
     <span class="links">
         <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v2">Paper</a>
         <a target="_blank" href="https://github.com/dsindiavscovid/CoSIR">Code</a>
@@ -95,7 +95,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <p class="pubd">
     <span class="authors">Harsh Maheshwari<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Debopriyo Banerjee, Niloy Ganguly, Arnab Bhattacharya</span><br>
     <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
-    <span class="conf">Under review at BMVC'21</span><br>
+    <span class="conf">Under review at ECIR'22</span><br>
     <!-- <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/10.1145/3411763.3451810">Paper</a>
     </span> -->
