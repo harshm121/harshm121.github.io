@@ -74,6 +74,19 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 
 # Publications and Preprints
 
+<a name="satco"></a>
+<h2 class="pubt">StyleAttention-based Compatible Outfit Generation</h2>
+<p class="pubd">
+    <span class="authors">Harsh Maheshwari<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Debopriyo Banerjee, Niloy Ganguly, Arnab Bhattacharya</span><br>
+    <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
+    <span class="conf">Under review at ECIR'22</span><br>
+    <!-- <span class="links">
+        <a target="_blank" href="https://dl.acm.org/doi/10.1145/3411763.3451810">Paper</a>
+    </span> -->
+</p>
+<img src="/images/satcogen/satcogen.png">
+<hr>
+
 <a name="/cosir"></a>
 <h2 class="pubt">CoSIR: Optimal control of SIR epidemic dynamics by mapping to Lotka-Volterra System</h2>
 <p class="pubd">
@@ -88,19 +101,6 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     </span>
 </p>
 <img src="/images/cosir/cosir.png">
-<hr>
-
-<a name="satco"></a>
-<h2 class="pubt">StyleAttention-based Compatible Outfit Generation</h2>
-<p class="pubd">
-    <span class="authors">Harsh Maheshwari<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Debopriyo Banerjee, Niloy Ganguly, Arnab Bhattacharya</span><br>
-    <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
-    <span class="conf">Under review at ECIR'22</span><br>
-    <!-- <span class="links">
-        <a target="_blank" href="https://dl.acm.org/doi/10.1145/3411763.3451810">Paper</a>
-    </span> -->
-</p>
-<img src="/images/satcogen/satcogen.png">
 <hr>
 
 <a name="/supermart"></a>
