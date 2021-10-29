@@ -94,7 +94,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <span class="conf">ICLR'21 MLPCP Workshop, CHIL'21 Workshop</span><br>
     <!-- <span class="conf">Under review at NeurIPS 2021</span><br> -->
     <span class="links">
-        <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2020.11.10.20211995v2">Paper</a>
+        <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2020.11.10.20211995">Paper</a>
         <a target="_blank" href="https://github.com/dsindiavscovid/CoSIR">Code</a>
         <a target="_blank" href="http://cosir.herokuapp.com/">Demo</a>
         <a target="_blank" href="https://harshm121.github.io/PDFs/CoSIR_CHIL_poster.pdf">Poster</a>
