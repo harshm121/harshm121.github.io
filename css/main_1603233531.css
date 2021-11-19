@@ -152,9 +152,9 @@ ul.nav-bar li {
     max-width: 97%;
   }
 
-  ./*hide-link-on-small-screens {
+  .hide-link-on-small-screens {
     display: none !important;
-  }*/
+  }
 }
 
 .post-content div {
