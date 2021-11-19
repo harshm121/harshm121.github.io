@@ -24,11 +24,27 @@ permalink:  /
 </div>
 <hr>
 
+<a name="/news"></a>
+
+# News
+
+- [Nov 21] Recommendation of Compatible Outfits Conditioned on Style accepted as presentation at the ECIR'22 Full Paper track!
+- [Oct 21] Fashion Compatibility work done at Flipkart accepted for Demo at CODS-COMAD 2022 Demo track!
+- [Aug 21] Working as Graduate Research Assistant with [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) and collaborating with [Gunjan Aggarwal](https://gunagg.github.io/).
+- [Aug 21] Starting MS in CS (Specialization in Machine Learning) at Georgia Tech.
+
+
+<div id="read-more-button">
+    <a nohref>Read more</a>
+</div>
+
+<hr>
+
 <a name="/bio"></a>
 
 # Bio
 
-I am a first year MS Student in the department of Computer Science at Georgia Institute of Technology, advised by [Dr. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
+I am a first year MS Student in the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
@@ -75,11 +91,11 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 # Publications and Preprints
 
 <a name="satco"></a>
-<h2 class="pubt">StyleAttention-based Compatible Outfit Generation</h2>
+<h2 class="pubt">Recommendation of Compatible Outfits Conditioned on Style</h2>
 <p class="pubd">
-    <span class="authors">Harsh Maheshwari<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Debopriyo Banerjee, Niloy Ganguly, Arnab Bhattacharya</span><br>
+    <span class="authors">Harsh Maheshwari<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Debopriyo Banerjee<sup>*</sup>, Niloy Ganguly, Arnab Bhattacharya</span><br>
+    <span class="conf">ECIR'22 (presentation)</span><br>
     <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
-    <span class="conf">Under review at ECIR'22</span><br>
     <!-- <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/10.1145/3411763.3451810">Paper</a>
     </span> -->
