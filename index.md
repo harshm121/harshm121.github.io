@@ -28,10 +28,11 @@ permalink:  /
 
 # News
 
-- [Nov 21] Recommendation of Compatible Outfits Conditioned on Style accepted as presentation at the ECIR'22 Full Paper track!
-- [Oct 21] Fashion Compatibility work done at Flipkart accepted for Demo at CODS-COMAD 2022 Demo track!
+- [Nov 21] Recommendation of Compatible Outfits Conditioned on Style accepted for presentation for the ECIR'22 Full Paper track!
+- [Oct 21] Fashion Compatibility work done at Flipkart accepted for demo at CODS-COMAD 2022!
 - [Aug 21] Working as Graduate Research Assistant with [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) and collaborating with [Gunjan Aggarwal](https://gunagg.github.io/).
 - [Aug 21] Starting MS in CS (Specialization in Machine Learning) at Georgia Tech.
+- [Jul 21] Ending an amazing journey at Flipkart as a Data Scientist in the recommendations team.
 
 
 <div id="read-more-button">
