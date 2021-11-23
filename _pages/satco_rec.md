@@ -1,8 +1,3 @@
----
-layout:     page
-permalink:  /satco_rec/
----
-
 <h1>
   <center>Recommendation of Compatible Outfits Conditioned on Style</center>
 </h1>
@@ -20,7 +15,7 @@ permalink:  /satco_rec/
 <center>
   * Equal contribution, lexicographic order
 </center>
-
+<br />
 ![style conditioning](https://harshm121.github.io/images/satcogen/stylecondition.png)
 
 Illustration of the effectiveness of style-guided outfit generation over a style independent variant. Given a top-wear liked by a user, a style-independent compatibility model will accept only outfits which have the dominant style while style-guided methods will accept outfits from multiple styles as well as reject the outfit which is pre-conditioned with a wrong style
