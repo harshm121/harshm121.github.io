@@ -6,4 +6,4 @@ author:
   email: harshm121@gmail.com
 description: MS CS at Georgia Institute of Technology
 permalink: /posts/:title/
-include: ['_pages']
+include: ['_pages', satco_rec.md]
