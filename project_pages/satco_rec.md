@@ -1,6 +1,3 @@
----
-permalink:  /satco_rec/
----
 <h1>
   <center>Recommendation of Compatible Outfits Conditioned on Style</center>
 </h1>
