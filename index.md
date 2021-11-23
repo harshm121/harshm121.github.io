@@ -98,7 +98,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <span class="conf">ECIR'22 (presentation)</span><br>
     <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
     <span class="links">
-        <a target="_blank" href="https://harshm121.github.io/satco_rec/">Project Page</a>
+        <a target="_blank" href="https://harshm121.github.io/satco_rec.html">Project Page</a>
     </span>
 </p>
 <img src="/images/satcogen/satcogen.png">
