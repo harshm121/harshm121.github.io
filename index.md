@@ -90,11 +90,11 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <a name="/publications"></a>
 
 # Publications and Preprints
-
+<p>* Equal contribution</p>
 <a name="satco"></a>
 <h2 class="pubt">Recommendation of Compatible Outfits Conditioned on Style</h2>
 <p class="pubd">
-    <span class="authors">Harsh Maheshwari<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Debopriyo Banerjee<sup>*</sup>, Niloy Ganguly, Arnab Bhattacharya</span><br>
+    <span class="authors">Debopriyo Banerjee<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Harsh Maheshwari<sup>*</sup>, Muthusamy Chelliah, Niloy Ganguly, Arnab Bhattacharya</span><br>
     <span class="conf">ECIR'22 (presentation)</span><br>
     <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
     <span class="links">
