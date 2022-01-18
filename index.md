@@ -100,6 +100,9 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <span class="links">
         <a target="_blank" href="https://harshm121.github.io/project_pages/satco_rec.html">Project Page</a>
     </span>
+    <span class="links">
+        <a target="_blank" href="https://harshm121.github.io/PDFs/satco_cods_paper.pdf">CODS-COMAD Demo Paper</a>
+    </span>
    
 </p>
 <img src="/images/satcogen/satcogen.png">
