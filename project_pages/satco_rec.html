@@ -40,7 +40,7 @@
         * Equal contribution, lexicographical order
         <br />
         <h5>
-          Published at <a href="https://ecir2022.org/">ECIR 2022</a> (Full paper - presentation)
+          Published at <a href="https://ecir2022.org/">ECIR 2022</a> <small>(Presentation for the full paper track)</small>
         </h5>
       </center>
       </p>
@@ -109,37 +109,78 @@
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <h4>CODS COMAD Demo Material</h4>
-    <p>
-      Check the paper <a href="https://dl.acm.org/doi/abs/10.1145/3493700.3493737">here</a>, and the video of the presentation at CODS <a href="https://youtu.be/aFLOZhdVuO4">here</a>. The slides presented in the video are available <a href="https://harshm121.github.io/PDFs/satco_cods_demo_ppt.pdf">here</a>.
-    </p>
+    <div class="row" id="bibtex">
+      <div class="col-xs-12">
+        <h4>ECIR PAPER</h4>
+        <hr>
+        <br>
+      </div>
+      <div class="col-xs-2">
+        <center><img style="height: 170px;width: 140px;" src="https://harshm121.github.io/images/satcogen/paper.png"></center>
+
+        <div style="padding-top: 20px;">
+          <p style="text-align: center;"><a target="_blank" href="https://arxiv.org/pdf/2203.16161.pdf">[Paper]</a></p>
+        </div>
+      </div>
+      <div class="col-xs-10">
+        <div class="paper">
+            <pre class="paper"><!--         -->@inproceedings{style_recommendation22,
+<!--         -->  title={Recommendation of Compatible Outfits Conditioned on Style},
+<!--         -->  author={Banerjee, Debopriyo and Dhakad, Lucky and Maheshwari, Harsh and Chelliah, Muthusamy and Ganguly, Niloy and Bhattacharya, Arnab},
+<!--         -->  booktitle={European Conference on Information Retrieval},
+<!--         -->  pages={35--50},
+<!--         -->  year={2022},
+<!--         -->  organization={Springer}
+<!--         -->}
+            </pre>
+          </div>
+      </div>
+    </div>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <h4>ECIR Material</h4>
-    <p>
-      <center>
-      <img src="https://harshm121.github.io/images/satcogen/paper.png" style="width: 20%;"/>
-      <code>
-        @inproceedings{stylerecommendation,
-          title={Recommendation of Compatible Outfits Conditioned on Style},
-          author={Banerjee, Debopriyo and Dhakad, Lucky and Maheshwari, Harsh and Chelliah, Muthusamy and Ganguly, Niloy and Bhattacharya, Arnab},
-          booktitle={European Conference on Information Retrieval},
-          pages={35--50},
-          year={2022},
-          organization={Springer}
-        }
-      </code>
-      </center>
-    </p>
+    <div class="row" id="bibtex">
+      <div class="col-xs-12">
+        <h4>CODS COMAD Paper</h4>
+        <hr>
+        <br>
+      </div>
+      <div class="col-xs-2">
+        <center><img style="height: 170px;width: 140px;" src="https://harshm121.github.io/images/satcogen/cods_paper.png"></center>
+
+        <div style="padding-top: 20px;">
+          <p style="text-align: center;"><a target="_blank" href="https://arxiv.org/pdf/2203.16161.pdf">[Paper]</a>
+            <a target="_blank" href="https://youtu.be/aFLOZhdVuO4">[Video]</a>
+            <a target="_blank" href="https://harshm121.github.io/PDFs/satco_cods_demo_ppt.pdf">[Presentation]</a>
+          </p>
+        </div>
+      </div>
+      <div class="col-xs-10">
+        <div class="paper">
+            <pre class="paper">@inproceedings{banerjee2022application,
+              title={An Application to Generate Style Guided Compatible Outfit},
+              author={Banerjee, Debopriyo and Maheshwari, Harsh and Dhakad, Lucky and Bhattacharya, Arnab and Ganguly, Niloy and Chelliah, Muthusamy and Agarwal, Suyash},
+              booktitle={5th Joint International Conference on Data Science \& Management of Data (9th ACM IKDD CODS and 27th COMAD)},
+              pages={260--264},
+              year={2022}
+            }
+            </pre>
+          </div>
+      </div>
+    </div>
   </div>
 </div>
-
 <div class="row">
   <div class="col-xs-12">
     <h2>Qualitative Results</h2>
+    <p>
+    Style conditioning enables us to create outfits for different styles given the same parent item. 
+    Thanks to the smooth style latent space, we can linearly traverse within the latent space from one style to the 
+    other and create outfits which are a combination of such styles. 
+  </p>
   </div>
+  <center>
   <div class="row">
     <div class="col-xs-12">
       <img src="https://harshm121.github.io/images/satcogen/qual1.png" style="width: 50%;"/>
@@ -160,6 +201,7 @@
       <img src="https://harshm121.github.io/images/satcogen/mix2.png" style="width: 50%;"/>
     </div>
   </div>
+</center>
 </div>
 
   </body>
