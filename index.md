@@ -99,6 +99,8 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
     <span class="links">
         <a target="_blank" href="https://harshm121.github.io/project_pages/satco_rec.html">Project Page</a>
+        <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_3">ECIR Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2203.16161.pdf">arXiv</a>
         <a target="_blank" href="https://harshm121.github.io/PDFs/satco_cods_paper.pdf">CODS-COMAD Demo Paper</a>
     </span>
    
