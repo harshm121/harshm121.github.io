@@ -28,6 +28,8 @@ permalink:  /
 
 # News
 
+- [Jan 22] Working with [Prof Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) on label-efficient frameworks. 
+- [May 22] Started summer internship at Amazon Fashion as an Applied Scientist.
 - [Nov 21] 'Recommendation of Compatible Outfits Conditioned on Style' accepted for presentation for the ECIR'22 Full Paper track!
 - [Oct 21] Fashion Compatibility work done at Flipkart accepted for demo at CODS-COMAD 2022!
 - [Aug 21] Working as Graduate Research Assistant with [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) and collaborating with [Gunjan Aggarwal](https://gunagg.github.io/).
@@ -49,18 +51,29 @@ I am a first year MS Student in the department of Computer Science at Georgia In
 
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
-For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. I also worked on a control framework to guide public health agencies in creating a policy schedule to control an epidemic.
+For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. 
+
 My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
+            <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
         </div>
         <div class="logo-desc">
-            B.Tech - IIT Delhi<br>
-            2015 - 2019
+            MS -  Georgia Tech<br>
+            2021 - Present
+        </div>
+    </div>
+    <div class="col-xs-4">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="//amazon.com"><img src="/images/logos/amazon.png"></a>
+        </div>
+        <div class="logo-desc">
+            Applied Scientist Intern - Amazon Fashion<br>
+            Summer 2021
         </div>
     </div>
     <div class="col-xs-4">
@@ -76,11 +89,11 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
+            <a href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
         </div>
         <div class="logo-desc">
-            MS -  Georgia Tech<br>
-            2021 - Present
+            B.Tech - IIT Delhi<br>
+            2015 - 2019
         </div>
     </div>
 </div>
