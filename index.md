@@ -36,11 +36,9 @@ permalink:  /
 
 <div id="read-more-button">
     <a nohref>Read more</a>
+    - [Aug 21] Starting MS in CS (Specialization in Machine Learning) at Georgia Tech.
+    - [Jul 21] Ending an amazing journey at Flipkart as a Data Scientist in the recommendations team.
 </div>
-
-- [Aug 21] Starting MS in CS (Specialization in Machine Learning) at Georgia Tech.
-- [Jul 21] Ending an amazing journey at Flipkart as a Data Scientist in the recommendations team.
-
 
 <hr>
 
@@ -57,7 +55,7 @@ For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsind
 My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
 
 <div class="row" id="timeline-logos">
-    <div class="col-xs-5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
@@ -67,7 +65,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             2021 - Present
         </div>
     </div>
-    <div class="col-xs-5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//amazon.com"><img src="/images/logos/amazon.png"></a>
@@ -77,7 +75,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             Summer 2021
         </div>
     </div>
-    <div class="col-xs-5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
@@ -87,7 +85,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             2019-2021
         </div>
     </div>
-    <div class="col-xs-5">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
