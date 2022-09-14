@@ -152,7 +152,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <h2 class="pubt">A Flexible Data- Driven Framework for COVID-19 Case Forecasting Deployed in a Developing- world Public Health Setting</h2>
 <p class="pubd">
     <span class="authors">Sansiddh Jain, Avtansh Tiwari, Nayana Bannur, Ayush Deva, Siddhant Shingi, Vishwa Shah, Mihir Kulkarni, Namrata Deka, Keshav Ramaswami, Vasudha Khare, Harsh Maheshwari, Soma Dhavala, Jithin Sreedharan, Jerome White, Srujana Merugu, Alpan Raval</span><br>
-    <span class="conf"><a target="_blank" href = "https://ai4sibook.org/"> AI for Social Impact book</a></span><br>
+    <span class="conf"> AI for Social Impact book</span><br>
     <span class="links">
         <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2021.11.01.21260020v1">Paper</a>
         <a target="_blank" href="https://ai4sibook.org/">Complete Book</a>
