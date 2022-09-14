@@ -49,7 +49,9 @@ I am a first year MS Student in the department of Computer Science at Georgia In
 
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
-For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure. 
+For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsindiavscovid.org/) mentored by [Dr. Srujana Merugu](https://www.linkedin.com/in/srujana-merugu-a7243819/), [Dr. Mohit Kumar](https://www.linkedin.com/in/mohitkum/) and [Dr. Alpan Raval](https://www.linkedin.com/in/alpan-raval-36219a2/). 
+
+<!-- There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure.  -->
 
 My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
 
@@ -60,7 +62,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
         </div>
         <div class="logo-desc">
-            MS -  Georgia Tech<br>
+            MS - Georgia Tech<br>
             2021 - Present
         </div>
     </div>
@@ -150,6 +152,11 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <h2 class="pubt">A Flexible Data- Driven Framework for COVID-19 Case Forecasting Deployed in a Developing- world Public Health Setting</h2>
 <p class="pubd">
     <span class="authors">Sansiddh Jain, Avtansh Tiwari, Nayana Bannur, Ayush Deva, Siddhant Shingi, Vishwa Shah, Mihir Kulkarni, Namrata Deka, Keshav Ramaswami, Vasudha Khare, Harsh Maheshwari, Soma Dhavala, Jithin Sreedharan, Jerome White, Srujana Merugu, Alpan Raval</span><br>
+    <span class="conf"><a target="_blank" href = "https://ai4sibook.org/"> AI for Social Impact book</a></span><br>
+    <span class="links">
+        <a target="_blank" href="https://www.medrxiv.org/content/10.1101/2021.11.01.21260020v1">Paper</a>
+        <a target="_blank" href="https://ai4sibook.org/">Complete Book</a>
+    </span>
 </p>
 <img src="/images/cityforecasting/cityforecasting.png">
 <hr>
@@ -166,9 +173,9 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 </p>
 <hr>
 
-<a name="/talks"></a>
+<!-- <a name="/talks"></a>
 
-<!-- # Talks
+# Talks
 
 <div class="row">
     <div class="col-xs-6">
