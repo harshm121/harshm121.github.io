@@ -137,17 +137,6 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <img src="/images/cosir/cosir.png">
 <hr>
 
-<a name="/supermart"></a>
-<h2 class="pubt">Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace</h2>
-<p class="pubd">
-    <span class="authors">Shreyas S<sup>*</sup>, Harsh Maheshwari<sup>*</sup>, Avijit Saha<sup>*</sup>, Samik Datta<sup>*</sup>, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S</span><br>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2011.08575">Paper</a>
-    </span>
-</p>
-<img src="/images/supermart/supermart.png">
-<hr>
-
 <a name="/cityforecasting"></a>
 <h2 class="pubt">A Flexible Data- Driven Framework for COVID-19 Case Forecasting Deployed in a Developing- world Public Health Setting</h2>
 <p class="pubd">
@@ -171,6 +160,17 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
         <a target="_blank" href="https://github.com/dsindiavscovid/covid19-india">Code</a>
     </span>
 </p>
+<hr>
+
+<a name="/supermart"></a>
+<h2 class="pubt">Audience Creation for Consumables - Simple and Scalable Precision Merchandising for a Growing Marketplace</h2>
+<p class="pubd">
+    <span class="authors">Shreyas S<sup>*</sup>, Harsh Maheshwari<sup>*</sup>, Avijit Saha<sup>*</sup>, Samik Datta<sup>*</sup>, Shashank Jain, Disha Makhija, Anuj Nagpal, Sneha Shukla, Suyash S</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2011.08575">Paper</a>
+    </span>
+</p>
+<img src="/images/supermart/supermart.png">
 <hr>
 
 <!-- <a name="/talks"></a>
