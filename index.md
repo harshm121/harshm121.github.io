@@ -55,7 +55,7 @@ For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsind
 
 My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
 
-<p class="text-primary">I am looking for full time research opportunities starting May 2023</p>
+<p class="text-info">I am looking for full time research or applied ML roles starting May 2023</p>
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
