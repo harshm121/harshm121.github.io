@@ -45,7 +45,7 @@ permalink:  /
 
 # Bio
 
-I am a first year MS Student in the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
+I am a second year MS Student in the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
@@ -54,6 +54,8 @@ For about an year, I also volunteered my time with [DSIndiaVsCovid](http://dsind
 <!-- There, I worked on COVID-19 case count forecasting using SEIR type compartmental epidemiological models and bayesian optimization to estimate parameters of the model. The framework was used to guide public health authorities of various Indian districts to plan for the upcoming burden on healthcare infrastructure.  -->
 
 My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pdf).
+
+<p class="text-primary">I am looking for full time research opportunities starting May 2023</p>
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
