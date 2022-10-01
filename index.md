@@ -81,6 +81,16 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
+            <a href="//amazon.com"><img src="/images/logos/wadhwani.jpeg"></a>
+        </div>
+        <div class="logo-desc">
+            Data Scientist Volunteer - Covid 19 Data Science Consortium with Wadhwani AI<br>
+            2020 - 2021
+        </div>
+    </div>
+    <div class="col-xs-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
             <a href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
         </div>
         <div class="logo-desc">
