@@ -71,7 +71,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//amazon.com"><img src="/images/logos/amazon.png"></a>
+            <a target="_blank" href="//amazon.com"><img src="/images/logos/amazon.png"></a>
         </div>
         <div class="logo-desc">
             Applied Scientist Intern - Amazon Fashion<br>
@@ -81,7 +81,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//wadhwaniai.org/programs/covid-decision-support/covid-decision-support-partners/"><img src="/images/logos/wadhwani.jpeg"></a>
+            <a target="_blank" href="//wadhwaniai.org/programs/covid-decision-support/covid-decision-support-partners/"><img src="/images/logos/wadhwani.jpeg"></a>
         </div>
         <div class="logo-desc">
             Data Scientist Volunteer - Covid 19 Data Science Consortium with Wadhwani AI<br>
@@ -91,7 +91,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
+            <a target="_blank" href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
         </div>
         <div class="logo-desc">
             Data Scientist - Flipkart<br>
@@ -101,7 +101,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
+            <a target="_blank" href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
         </div>
         <div class="logo-desc">
             B.Tech - IIT Delhi<br>
