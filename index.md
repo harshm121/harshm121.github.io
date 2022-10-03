@@ -120,7 +120,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <h2 class="pubt">Recommendation of Compatible Outfits Conditioned on Style</h2>
 <p class="pubd">
     <span class="authors">Harsh Maheshwari<sup>*</sup>, Debopriyo Banerjee<sup>*</sup>, Lucky Dhakad<sup>*</sup>, Muthusamy Chelliah, Niloy Ganguly, Arnab Bhattacharya </span><br>
-    <span class="conf">ECIR'22 (presentation)</span><br>
+    <span class="conf">ECIR'22 (oral)</span><br>
     <span class="conf"> CODS-COMAD 2022 Demo track</span><br>
     <span class="links">
         <a target="_blank" href="https://harshm121.github.io/project_pages/satco_rec.html">Project Page</a>
