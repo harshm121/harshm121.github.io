@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <meta name="keywords" content="multi-modal, semantic-segmentation, multimodal, semantic, segmentation, semi-supervised, missing modality, robustness">
+
+  <title>M3L</title>
+  <meta name="description" content="Missing modality robustness in semi-supervised multi-modal semantic segmentation">
+
+  <!-- CSS  -->
+  <link rel="stylesheet" type="text/css" href="./static/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="./static/main.2f91a3.css" media="screen,projection">
+</head>
+
+<body data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed="" style="">
+
+  <div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="https://harshm121.github.io/projects/m3l.html">M3L</a>
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="navbar-collapse collapse" id="navbar-main">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="#overview">Overview</a>
+          </li>
+          <li>
+            <a href="#people">People</a>
+          </li>
+          <li>
+            <a href="#bibtex">Bibtex</a>
+          </li>
+          <li>
+            <a target="_blank" href="https://github.com/harshm121/Multi-modal-SSL-Segmentation">Code</a>
+          </li>
+          <!--<li>
+            <a href="/#/acknowledgements">Acknowledgements</a>
+          </li> -->
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a href="https://gatech.edu/">
+              <img style="height:30px;" src="https://harshm121.github.io/images/logos/gatech.jpeg">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="container" id="overview">
+    <div class="page-content">
+      <p><br></p>
+      <div class="row">
+        <div class="col-xs-12">
+          <h2>M3L: Multi-modal teacher for Masked Modality Learning</h2>
+        </div>
+
+        <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+          <a target="_blank" href="https://harshm121.github.io/">Harsh Maheshwari</a>, <a target="_blank"
+            href="https://ycliu93.github.io/">Yen-Cheng Liu</a>, <a target="_blank"
+            href="https://abhishekdas.com/">Zsolt Kira</a><br>
+        </div>
+        <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+          Under review at  <a target="_blank" href="https://iccv2023.thecvf.com/">ICCV 2023</a>
+          [<a href="#bibtex">Bibtex</a>] [<a href="" target="_blank">PDF (Coming soon!)</a>]
+          [<a target="_blank" href="https://github.com/harshm121/Multi-modal-SSL-Segmentation">Code</a>]
+        </div>
+      </div>
+
+      <div class="row">
+        <br>
+        <div class="col-xs-12">
+          <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+              <img src="https://harshm121.github.io/images/M3L/teaser.png">
+            </div>
+          </div>
+          <br>
+          <div style="padding-top: 20px;">
+            <p style="text-align: center;">Robustness to missing modalities in semi-supervised multi-modal semantic segmentation</p>
+          </div>
+        </div>
+        <div class="col-xs-12">
+          <br>
+          <p>
+            Using multiple spatial modalities has been proven helpful in improving semantic segmentation performance. However, there are several real-world challenges 
+            that have yet to be addressed: (a) improving label efficiency and (b) enhancing robustness in realistic scenarios where modalities are missing at the test 
+            time. To address these challenges, we first propose a simple yet efficient multi-modal fusion mechanism Linear Fusion, that performs better than the state-of-the-art 
+            multi-modal models even with limited supervision. Second, we propose M3L: Multi-modal Teacher for Masked Modaltiy Learning, a semi-supervised framework that not only 
+            improves the multi-modal performance but also makes the model robust to the realistic missing modality scenario using unlabeled data. We create the first benchmark 
+            for semi-supervised multi-modal semantic segmentation and also report the robustness to missing modalities. Our proposal shows an absolute improvement of up to 10% on 
+            robust mIoU above the most competitive baselines.
+          </p>
+          <p>Read more in the <a href="" target="_blank">paper</a>.</p>
+        </div>
+
+      </div>
+      <br />
+
+      <div class="row">
+        <div class="col-xs-12">
+          <h2>Qualitative Examples</h2>
+          <hr>
+          <br />
+        </div>
+        <br />
+        <div class="col-xs-12">
+          <div class="row">
+            <div class="col-sm-6">
+              <img src="https://harshm121.github.io/images/M3L/allexamples.png">
+              <br>
+              <div style="padding-top: 20px;">
+                <p style="text-align: center;">Examples for different multi-modal models trained with supervised and semi-supervised frameworks.</p>
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <img src="https://harshm121.github.io/images/M3L/mmrobust.png">
+              <br>
+              <div style="padding-top: 20px;">
+                <p style="text-align: center;">Examples for visualizing drop in performance when a modality is missing and robustness to missing modality when
+                    trained with the propsed M3L framework.</p>
+              </div>
+            </div>
+          </div>
+          <br>
+          <div class="row">
+            <div class="col-sm-6">
+              <img src="https://harshm121.github.io/images/M3L/mmrobustmt.png">
+              <br>
+              <div style="padding-top: 20px;">
+                <p style="text-align: center;">An example to show that when Linear Fusion (LF) is trained with mean teacher (MT), it is sensitive to the presence of both modalities.</p>
+              </div>
+            </div>
+            <div class="col-sm-6">
+                <img src="https://harshm121.github.io/images/M3L/mmrobustm3l.png">
+                <br>
+                <div style="padding-top: 20px;">
+                  <p style="text-align: center;">When Linear Fusion is trained with our proposed M3L framework, the predictions are robust to the missing modalities.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <br />
+
+
+      <!-- <div class="row" id="bibtex">
+        <div class="col-xs-12">
+          <h2>Paper</h2>
+          <hr>
+          <br />
+        </div>
+        <div class="col-xs-2">
+          <center><img style="height: 120px;width: 100px;" src="./static/pirlnav/imgs/pirlnav-thumbnail.png">
+          </center>
+
+          <div style="padding-top: 20px;">
+            <p style="text-align: center;"><a target="_blank" href="https://arxiv.org/pdf/2301.07302.pdf">[Paper]</a>
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-10">
+          <div class="paper">
+            <pre class="paper">
+<!--         -->@inproceedings{ramrakhya2023pirlnav,
+<!--         -->  title={PIRLNav: Pretraining with Imitation and RL Finetuning for ObjectNav},
+<!--         -->  author={Ram Ramrakhya and Dhruv Batra and Erik Wijmans and Abhishek Das},
+<!--         -->  booktitle={CVPR},
+<!--         -->  year={2023},
+<!--         -->}
+            </pre>
+          </div>
+        </div>
+      </div>
+      <br />
+      <br /> -->
+
+      <!-- <div class="row">
+        <div class="col-xs-12">
+          <h2>Code and Data</h2>
+          <hr />
+        </div>
+        <div class="col-xs-12">
+          1. <span style="color:#e74c3c;font-weight:400;">Demonstrations dataset</span> — <a target="_blank"
+            href="https://github.com/Ram81/pirlnav#data">ObjectNav-HD, ObjectNav-SP, and ObjectNav-FE dataset</a>
+        </div>
+        <div class="col-xs-12">
+          2. <span style="color:#e74c3c;font-weight:400;">PIRLNav</span> — <a target="_blank"
+            href="https://github.com/Ram81/pirlnav">Code for training policies using IL and RL in habitat</a>
+        </div>
+      </div>
+      <br />
+      <br /> -->
+
+      <!-- <div class="row" id="people">
+        <div class="col-xs-12">
+          <h2>People</h2>
+          <hr>
+          <br />
+        </div>
+        <div class="col-md-2 col-sm-3 col-xs-6"></div>
+        <div class="col-md-2 col-sm-3 col-xs-6">
+          <a href="https://harshm121.github.io/">
+            <img class="people-pic" src="./static/habitat-web/imgs/people/rramrakhya.jpeg">
+          </a>
+          <div class="people-name">
+            <a href="https://ram81.github.io/">Ram Ramrakhya</a><br>
+            <affiliation>Georgia Tech</affiliation>
+          </div>
+        </div>
+        <div class="col-md-2 col-sm-3 col-xs-6">
+          <a href="https://faculty.cc.gatech.edu/~dbatra/">
+            <img class="people-pic" src="./static/habitat-web/imgs/people/dhruv.jpg">
+          </a>
+          <div class="people-name">
+            <a href="https://faculty.cc.gatech.edu/~dbatra/">Dhruv Batra</a><br>
+            <affiliation>Meta AI, Georgia Tech</affiliation>
+          </div>
+        </div>
+        <div class="col-md-2 col-sm-3 col-xs-6">
+          <a href="https://wijmans.xyz/">
+            <img class="people-pic" src="./static/pirlnav/imgs/people/erikwijmans.jpg">
+          </a>
+          <div class="people-name">
+            <a href="https://wijmans.xyz/">Erik Wijmans</a><br>
+            <affiliation>Georgia Tech</affiliation>
+          </div>
+        </div>
+        <div class="col-md-2 col-sm-3 col-xs-6">
+          <a href="https://abhishekdas.com/">
+            <img class="people-pic" src="./static/habitat-web/imgs/people/abhishekdas.jpg">
+          </a>
+          <div class="people-name">
+            <a href="https://abhishekdas.com/">Abhishek Das</a><br>
+            <affiliation>Meta AI</affiliation>
+          </div>
+        </div>
+      </div>
+      <br />
+      <br /> -->
+
+      <!-- <div class="row">
+        <div class="col-xs-12">
+          <h2>Acknowledgements</h2>
+          <hr>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <p>
+            We thank Karmesh Yadav for providing model weights for OVRL, and Theophile Gervet for answering questions
+            related to the frontier exploration codebase used to generate demonstrations. The Georgia Tech effort was
+            supported in part by NSF, ONR YIP, and ARO PECASE. The views and conclusions contained herein are those of
+            the authors and should not be interpreted as necessarily representing the official policies or endorsements,
+            either expressed or implied, of the U.S. Government, or any sponsor.
+          </p>
+        </div>
+      </div> -->
+
+    </div>
+  </div>
+  <br />
+
+  <script type="text/javascript" src="./static/jquery.min.js"></script>
+  <script type="text/javascript" src="./static/bootstrap.min.js"></script>
+</body>
+
+</html>

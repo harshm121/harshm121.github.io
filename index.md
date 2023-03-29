@@ -121,12 +121,12 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <p class="pubd">
     <span class="authors">Harsh Maheshwari, Yen-Cheng Liu, Zsolt Kira</span><br>
     <span class="conf">Under review</span><br>
-<!--    <span class="links">
-        <a target="_blank" href="https://harshm121.github.io/project_pages/satco_rec.html">Project Page</a>
-        <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_3">ECIR Paper</a>
+    <span class="links">
+        <a target="_blank" href="https://harshm121.github.io/projects/m3l.html">Project Page</a>
+<!--        <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_3">ECIR Paper</a>
         <a target="_blank" href="https://arxiv.org/pdf/2203.16161.pdf">arXiv</a>
-        <a target="_blank" href="https://harshm121.github.io/PDFs/satco_cods_paper.pdf">CODS-COMAD Demo Paper</a>
-    </span> -->
+        <a target="_blank" href="https://harshm121.github.io/PDFs/satco_cods_paper.pdf">CODS-COMAD Demo Paper</a> -->
+    </span>
    
 </p>
 <img src="/images/M3L/teaser.png">
