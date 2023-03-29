@@ -116,6 +116,22 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 
 # Publications and Preprints
 <p>* Equal contribution</p>
+<a name="m3l"></a>
+<h2 class="pubt">Missing Modality Robustness in Multi-Modal Semi-Supervised Semantic Segmentation</h2>
+<p class="pubd">
+    <span class="authors">Harsh Maheshwari, Yen-Cheng Liu, Zsolt Kira</span><br>
+    <span class="conf">Under review</span><br>
+<!--    <span class="links">
+        <a target="_blank" href="https://harshm121.github.io/project_pages/satco_rec.html">Project Page</a>
+        <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_3">ECIR Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2203.16161.pdf">arXiv</a>
+        <a target="_blank" href="https://harshm121.github.io/PDFs/satco_cods_paper.pdf">CODS-COMAD Demo Paper</a>
+    </span> -->
+   
+</p>
+<img src="/images/M3L/teaser.png">
+<hr>
+
 <a name="satco"></a>
 <h2 class="pubt">Recommendation of Compatible Outfits Conditioned on Style</h2>
 <p class="pubd">
