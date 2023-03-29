@@ -1,169 +1,149 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
+  <head>
+  <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta name="keywords" content="multi-modal, semantic-segmentation, multimodal, semantic, segmentation, semi-supervised, missing modality, robustness">
+  <meta name="author" content="Harsh Maheshwari">
+  <meta name="keywords" content="fashion, recommendation, flipkart, outfit generation">
 
-  <title>M3L</title>
-  <meta name="description" content="Missing modality robustness in semi-supervised multi-modal semantic segmentation">
+
+
+  <title>SATCORec</title>
+  <meta name="description" content="Recommendation in the fashion domain has seen a recent surge in research in various areas, for example, shop-the-look, context- aware outfit creation, personalizing outfit creation, etc. Majority of state of the art in the domain of outfit recommendation pursue to improve compatibility among items so as to produce high quality outfits. Some recent works have realized that style is an important factor in fashion and have incorporated it in compatibility learning and outfit generation. These methods often depend on the availability of fine-grained product categories or the presence of rich item attributes (e.g., long-skirt, mini- skirt, etc.). In this work, we aim to generate outfits conditional on styles or themes as one would dress in real life, operating under the practical assumption that each item is mapped to a high level category as driven by the taxonomy of an online portal, like outdoor, formal etc and an image. We use a novel style encoder network that renders outfit styles in a smooth latent space. We present an extensive analysis of different aspects of our method and demonstrate its superiority over existing state of the art baselines through rigorous experiments.">
 
   <!-- CSS  -->
-  <link rel="stylesheet" type="text/css" href="./static/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="./static/main.2f91a3.css" media="screen,projection">
+  <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="../css/main.css" media="screen,projection">
 </head>
+  <body>
 
-<body data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed="" style="">
-
-  <div class="navbar navbar-default navbar-fixed-top">
+    <div class="top-strip"></div>
     <div class="container">
-      <div class="navbar-header">
-        <a class="navbar-brand" href="https://harshm121.github.io/projects/m3l.html">M3L</a>
-        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      </div>
-      <div class="navbar-collapse collapse" id="navbar-main">
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="#overview">Overview</a>
-          </li>
-          <li>
-            <a href="#people">People</a>
-          </li>
-          <li>
-            <a href="#bibtex">Bibtex</a>
-          </li>
-          <li>
-            <a target="_blank" href="https://github.com/harshm121/Multi-modal-SSL-Segmentation">Code</a>
-          </li>
-          <!--<li>
-            <a href="/#/acknowledgements">Acknowledgements</a>
-          </li> -->
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li>
-            <a href="https://gatech.edu/">
-              <img style="height:30px;" src="https://harshm121.github.io/images/logos/gatech.jpeg">
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="container" id="overview">
-    <div class="page-content">
-      <p><br></p>
-      <div class="row">
-        <div class="col-xs-12">
-          <h2>M3L: Multi-modal teacher for Masked Modality Learning</h2>
-        </div>
-
-        <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-          <a target="_blank" href="https://harshm121.github.io/">Harsh Maheshwari</a>, <a target="_blank"
-            href="https://ycliu93.github.io/">Yen-Cheng Liu</a>, <a target="_blank"
-            href="https://abhishekdas.com/">Zsolt Kira</a><br>
-        </div>
-        <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-          Under review at  <a target="_blank" href="https://iccv2023.thecvf.com/">ICCV 2023</a>
-          [<a href="#bibtex">Bibtex</a>] [<a href="" target="_blank">PDF (Coming soon!)</a>]
-          [<a target="_blank" href="https://github.com/harshm121/Multi-modal-SSL-Segmentation">Code</a>]
-        </div>
-      </div>
-
-      <div class="row">
-        <br>
-        <div class="col-xs-12">
-          <div class="row">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-8">
-              <img src="https://harshm121.github.io/images/M3L/teaser.png">
-            </div>
-          </div>
-          <br>
-          <div style="padding-top: 20px;">
-            <p style="text-align: center;">Robustness to missing modalities in semi-supervised multi-modal semantic segmentation</p>
-          </div>
-        </div>
-        <div class="col-xs-12">
-          <br>
-          <p>
-            Using multiple spatial modalities has been proven helpful in improving semantic segmentation performance. However, there are several real-world challenges 
-            that have yet to be addressed: (a) improving label efficiency and (b) enhancing robustness in realistic scenarios where modalities are missing at the test 
-            time. To address these challenges, we first propose a simple yet efficient multi-modal fusion mechanism Linear Fusion, that performs better than the state-of-the-art 
-            multi-modal models even with limited supervision. Second, we propose M3L: Multi-modal Teacher for Masked Modaltiy Learning, a semi-supervised framework that not only 
-            improves the multi-modal performance but also makes the model robust to the realistic missing modality scenario using unlabeled data. We create the first benchmark 
-            for semi-supervised multi-modal semantic segmentation and also report the robustness to missing modalities. Our proposal shows an absolute improvement of up to 10% on 
-            robust mIoU above the most competitive baselines.
-          </p>
-          <p>Read more in the <a href="" target="_blank">paper</a>.</p>
-        </div>
-
-      </div>
-      <br />
-
-      <div class="row">
-        <div class="col-xs-12">
-          <h2>Qualitative Examples</h2>
-          <hr>
-          <br />
-        </div>
+      <div class="page-header" id="banner">
+  <div class="row">
+    <div class="col-xs-12">
+      <h1>
+        <center>Missing modality robustness in semi-supervised multi-modal semantic segmentation</center>
+      </h1>
+      <h3>
+        <center>M3L: Multi-modal teacher for Masked Modality Learning</center>
+      </h3>
+      <p class="lead authors">
+        <center>
+          <h4>
+        <a target="_blank" href="https://harshm121.github.io/">Harsh Maheshwari</a>
+        <a target="_blank" href="https://ycliu93.github.io/">Yen-Cheng Liu</a>
+        <a target="_blank" href="https://abhishekdas.com/">Zsolt Kira</a>
+      </h4>
         <br />
-        <div class="col-xs-12">
-          <div class="row">
-            <div class="col-sm-6">
-              <img src="https://harshm121.github.io/images/M3L/allexamples.png">
-              <br>
-              <div style="padding-top: 20px;">
-                <p style="text-align: center;">Examples for different multi-modal models trained with supervised and semi-supervised frameworks.</p>
-              </div>
-            </div>
-            <div class="col-sm-6">
-              <img src="https://harshm121.github.io/images/M3L/mmrobust.png">
-              <br>
-              <div style="padding-top: 20px;">
-                <p style="text-align: center;">Examples for visualizing drop in performance when a modality is missing and robustness to missing modality when
-                    trained with the propsed M3L framework.</p>
-              </div>
-            </div>
-          </div>
-          <br>
-          <div class="row">
-            <div class="col-sm-6">
-              <img src="https://harshm121.github.io/images/M3L/mmrobustmt.png">
-              <br>
-              <div style="padding-top: 20px;">
-                <p style="text-align: center;">An example to show that when Linear Fusion (LF) is trained with mean teacher (MT), it is sensitive to the presence of both modalities.</p>
-              </div>
-            </div>
-            <div class="col-sm-6">
-                <img src="https://harshm121.github.io/images/M3L/mmrobustm3l.png">
-                <br>
-                <div style="padding-top: 20px;">
-                  <p style="text-align: center;">When Linear Fusion is trained with our proposed M3L framework, the predictions are robust to the missing modalities.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-
-
+        <h5>
+          Under review at  <a target="_blank" href="https://iccv2023.thecvf.com/">ICCV 2023</a>
+        </h5>
+      </center>
+      </p>
     </div>
   </div>
-  <br />
+</div>
+      <div class="page-content">
+          <div class="row">
+    <div class="col-xs-12">
+        <h2>Abstract</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <p>Using multiple spatial modalities has been proven helpful in improving semantic segmentation performance. However, there are several real-world challenges 
+          that have yet to be addressed: (a) improving label efficiency and (b) enhancing robustness in realistic scenarios where modalities are missing at the test 
+          time. To address these challenges, we first propose a simple yet efficient multi-modal fusion mechanism Linear Fusion, that performs better than the state-of-the-art 
+          multi-modal models even with limited supervision. Second, we propose M3L: Multi-modal Teacher for Masked Modaltiy Learning, a semi-supervised framework that not only 
+          improves the multi-modal performance but also makes the model robust to the realistic missing modality scenario using unlabeled data. We create the first benchmark 
+          for semi-supervised multi-modal semantic segmentation and also report the robustness to missing modalities. Our proposal shows an absolute improvement of up to 10% on 
+          robust mIoU above the most competitive baselines.</p>
+        <div>Read more in the <a href="">paper (coming soon!)</a>.</div>
+        <!-- <div>In <a href="https://ecir2022.org/">ECIR 2022</a> full paper track (presentation). <a href="https://harshm121.github.io/PDFs/satco_cods_paper.pdf">Initial version</a> presented at <a href="https://cods-comad.in/">CODS COMAD 2022</a> Demo track.</div> -->
+    </div>
+</div>
+<hr />
+<div class="row">
+  <div class="col-xs-12">
+    <center>
+      <img src="https://harshm121.github.io/images/M3L/teaser.png" style="width: 60%;"/>
+  </center>
+  </div>
+</div>
 
-  <script type="text/javascript" src="./static/jquery.min.js"></script>
-  <script type="text/javascript" src="./static/bootstrap.min.js"></script>
-</body>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      Robustness to missing modalities in semi-supervised multi-modal semantic segmentation.
+    </p>
+  </div>
+</div>
+<hr />
 
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Paper and Supplementary Material</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <div class="row" id="bibtex">
+      <div class="col-xs-12">
+        <h4>Coming soon!</h4>
+        <hr>
+        <br>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Qualitative Results</h2>
+  </div>
+  <center>
+  <div class="row">
+    <div class="col-xs-12">
+      <img src="https://harshm121.github.io/images/M3L/allexamples.png" style="width: 50%;"/>
+    </div>
+    <br>
+    <div style="padding-top: 20px;">
+      <p style="text-align: center;">Examples for different multi-modal models trained with supervised and semi-supervised frameworks.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <img src="https://harshm121.github.io/images/M3L/mmrobust.png" style="width: 50%;"/>
+    </div>
+    <br>
+    <div style="padding-top: 20px;">
+      <p style="text-align: center;">Examples for visualizing drop in performance when a modality is missing and robustness to missing modality when
+          trained with the propsed M3L framework.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <img src="https://harshm121.github.io/images/M3L/mmrobustmt.png" style="width: 50%;"/>
+    </div>
+    <br>
+    <div style="padding-top: 20px;">
+      <p style="text-align: center;">An example to show that when Linear Fusion (LF) is trained with mean teacher (MT), it is sensitive to the presence of both modalities.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <img src="https://harshm121.github.io/images/M3L/mmrobustm3l.png" style="width: 50%;"/>
+    </div>
+    <br>
+    <div style="padding-top: 20px;">
+      <p style="text-align: center;">When Linear Fusion is trained with our proposed M3L framework, the predictions are robust to the missing modalities.</p>
+    </div>
+  </div>
+</center>
+</div>
+
+  </body>
 </html>
