@@ -142,7 +142,6 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     </span>
    
 </p>
-<img src="/images/M3L/teaser.png">
 <hr>
 
 <a name="satco"></a>
