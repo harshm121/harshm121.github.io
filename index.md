@@ -132,6 +132,19 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <img src="/images/M3L/teaser.png">
 <hr>
 
+<a name="imagenet-degradation"></a>
+<h2 class="pubt">Performance degradation of ImageNet trained models by simple image transformations</h2>
+<p class="pubd">
+    <span class="authors">Harsh Maheshwari</span><br>
+    <span class="conf">arXiv only</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/pdf/2207.08079.pdf">arXiv</a>
+    </span>
+   
+</p>
+<img src="/images/M3L/teaser.png">
+<hr>
+
 <a name="satco"></a>
 <h2 class="pubt">Recommendation of Compatible Outfits Conditioned on Style</h2>
 <p class="pubd">
