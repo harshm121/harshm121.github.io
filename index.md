@@ -27,6 +27,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [May 23] Graduated with an MS in CS from Georgia Tech.
 - [May 22] Started summer internship at Amazon Fashion as an Applied Scientist.
 - [Jan 22] Working with [Prof Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) on label-efficient frameworks. 
 - [Nov 21] 'Recommendation of Compatible Outfits Conditioned on Style' accepted for presentation for the ECIR'22 Full Paper track!
