@@ -27,6 +27,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [June 23] Moved back to India! Read more [here](https://medium.com/@harshm121/moving-back-to-india-just-after-ms-from-the-us-94b235b40f9e).
 - [May 23] Graduated with an MS in CS from Georgia Tech.
 - [May 22] Started summer internship at Amazon Fashion as an Applied Scientist.
 - [Jan 22] Working with [Prof Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) on label-efficient frameworks. 
