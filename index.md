@@ -245,7 +245,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <script type="text/javascript">
     $('ul:gt(0) li:gt(12)').hide();
     $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(7)').show();
+        $('ul:gt(0) li:gt(3)').show();
         $('#read-more-button').hide();
     });
 </script>
