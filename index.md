@@ -134,7 +134,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
 <h2 class="pubt">Missing Modality Robustness in Multi-Modal Semi-Supervised Semantic Segmentation</h2>
 <p class="pubd">
     <span class="authors">Harsh Maheshwari, Yen-Cheng Liu, Zsolt Kira</span><br>
-    <span class="conf">Under review</span><br>
+    <span class="conf">WACV'24</span><br>
     <span class="links">
         <a target="_blank" href="https://harshm121.github.io/projects/m3l.html">Project Page</a>
 <!--        <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_3">ECIR Paper</a>-->
