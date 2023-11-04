@@ -27,6 +27,8 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [Oct 23] M3L accepted at WACV 2024.
+- [Jul 23] Started as a Research Engineer II at [Avataar.ai](https://www.avataar.ai/)
 - [Jun 23] Moved back to India! Read more [here](https://medium.com/@harshm121/moving-back-to-india-just-after-ms-from-the-us-94b235b40f9e).
 - [May 23] Graduated with an MS in CS from Georgia Tech.
 - [May 22] Started summer internship at Amazon Fashion as an Applied Scientist.
@@ -47,7 +49,7 @@ permalink:  /
 
 # Bio
 
-I am a second year MS Student in the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
+I am a Research Engineer at [Avataar.ai](https://www.avataar.ai/) where I work on generative AI and 3D. I did my MS from the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
@@ -63,11 +65,21 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
+            <a target="_blank" href="//avataar.ai"><img src="/images/logos/avataar.jpeg"></a>
+        </div>
+        <div class="logo-desc">
+            RE II - Avataar<br>
+            2023 - Present
+        </div>
+    </div>
+    <div class="col-xs-4">
+        <div class="logo-wrap">
+            <span class="helper"></span>
             <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
         </div>
         <div class="logo-desc">
             MS - Georgia Tech<br>
-            2021 - Present
+            2021 - 2023
         </div>
     </div>
     <div class="col-xs-4">
