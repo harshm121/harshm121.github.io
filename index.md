@@ -28,6 +28,8 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [Jun 24] Attended CVPR in Seattle.
+- [Feb 24] Our [work](https://arxiv.org/abs/2402.00868) on Domain Adaptation using videos got accepted at TMLR.
 - [Oct 23] M3L accepted at WACV 2024.
 - [Jul 23] Started as a Research Engineer II at [Avataar.ai](https://www.avataar.ai/)
 - [Jun 23] Moved back to India! Read more [here](https://medium.com/@harshm121/moving-back-to-india-just-after-ms-from-the-us-94b235b40f9e).
