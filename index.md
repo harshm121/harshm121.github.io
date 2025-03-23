@@ -28,6 +28,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [Feb 25] Promoted to RE III at Avataar
 - [Jun 24] Attended CVPR in Seattle.
 - [Feb 24] Our [work](https://arxiv.org/abs/2402.00868) on Domain Adaptation using videos got accepted at TMLR.
 - [Oct 23] M3L accepted at WACV 2024.
