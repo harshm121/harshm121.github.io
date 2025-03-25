@@ -72,7 +72,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             <a target="_blank" href="//avataar.ai"><img src="/images/logos/avataar.jpeg"></a>
         </div>
         <div class="logo-desc">
-            RE III - Avataar<br>
+            Research - Avataar<br>
             2023 - Present
         </div>
     </div>
