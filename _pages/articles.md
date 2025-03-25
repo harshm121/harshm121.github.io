@@ -20,12 +20,13 @@ permalink:  /articles/
 ### Articles
 
 
+1. A quick explainer of Flow Matching vs Diffusion with a demo code at the end [here](https://medium.com/p/79578a16c510)
 
-1. My thoughts on how I embraced my decision of moving back to India from the states [here](https://medium.com/@harshm121/moving-back-to-india-just-after-ms-from-the-us-94b235b40f9e).
+2. My thoughts on how I embraced my decision of moving back to India from the states [here](https://medium.com/@harshm121/moving-back-to-india-just-after-ms-from-the-us-94b235b40f9e).
 
-2. A medium article explaining one of the papers which received ICLR'17 Best Paper Award: [Paper explained: “UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION” — ICLR’17](https://harshm121.medium.com/paper-explained-understanding-deep-learning-requires-rethinking-generalization-iclr17-939a89096ab7)
+3. A medium article explaining one of the papers which received ICLR'17 Best Paper Award: [Paper explained: “UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION” — ICLR’17](https://harshm121.medium.com/paper-explained-understanding-deep-learning-requires-rethinking-generalization-iclr17-939a89096ab7)
 
-2. My thoughts on how Social Media is affecting politics: [Social Media — An Echo Chamber for politics](https://harshm121.medium.com/social-media-an-echo-chamber-for-politics-a753763d9a9c)
+4. My thoughts on how Social Media is affecting politics: [Social Media — An Echo Chamber for politics](https://harshm121.medium.com/social-media-an-echo-chamber-for-politics-a753763d9a9c)
 
 ### Sampled Course work
 
