@@ -39,7 +39,7 @@ permalink:  /
 - [Jan 22] Working with [Prof Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) on label-efficient frameworks. 
 - [Nov 21] 'Recommendation of Compatible Outfits Conditioned on Style' accepted for presentation for the ECIR'22 Full Paper track!
 - [Oct 21] Fashion Compatibility accepted for demo at CODS-COMAD 2022!
-- [Aug 21] Working as Graduate Research Assistant with [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/).
+- [Aug 21] Working as Graduate Research Assistant with [Prof. Devi Parikh](https://deviparikh.com/).
 - [Aug 21] Starting MS in CS (Specialization in Machine Learning) at Georgia Tech.
 - [Jul 19] Starting as a Data Scientist at Flipkart responsible for recommendations. 
 <div id="read-more-button">
@@ -53,7 +53,7 @@ permalink:  /
 
 # Bio
 
-I am a Research Engineer at [Avataar.ai](https://www.avataar.ai/) where I work on generative AI and 3D with [Dr. Sohil Shah](https://sites.google.com/site/sas21587/) and [Dr. Shubham Goel](https://shubham-goel.github.io/). I did my MS from the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
+I am a Research Engineer at [Avataar.ai](https://www.avataar.ai/) where I work on generative AI and 3D with [Dr. Sohil Shah](https://sites.google.com/site/sas21587/) and [Dr. Shubham Goel](https://shubham-goel.github.io/). I did my MS from the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://deviparikh.com/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
