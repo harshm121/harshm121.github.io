@@ -82,7 +82,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             <a target="_blank" href="//gatech.edu"><img src="/images/logos/gatech.jpeg"></a>
         </div>
         <div class="logo-desc">
-            MS - Georgia Tech<br>
+            MS - Georgia Tech - Computer Science<br>
             2021 - 2023
         </div>
     </div>
@@ -112,7 +112,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             <a target="_blank" href="//flipkart.com"><img src="/images/logos/flipkart.jpeg"></a>
         </div>
         <div class="logo-desc">
-            Data Scientist - Flipkart<br>
+            Data Scientist - Flipkart - Recommendations<br>
             2019-2021
         </div>
     </div>
@@ -122,7 +122,7 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
             <a target="_blank" href="//iitd.ac.in"><img src="/images/logos/iitd.png"></a>
         </div>
         <div class="logo-desc">
-            B.Tech - IIT Delhi<br>
+            B.Tech - IIT Delhi - Electrical Dept.<br>
             2015 - 2019
         </div>
     </div>
