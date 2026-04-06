@@ -28,7 +28,9 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-- [Feb 25] Promoted to RE III at Avataar
+- [Feb 26] [Sarvam Vision](https://www.sarvam.ai/blogs/sarvam-vision) released! SOTA OCR model.
+- [Jun 25] Joined sarvam.ai as a Researcher in the vision team.
+- [Feb 25] Promoted to RE III at Avataar.
 - [Jun 24] Attended CVPR in Seattle.
 - [Feb 24] Our [work](https://arxiv.org/abs/2402.00868) on Domain Adaptation using videos got accepted at TMLR.
 - [Oct 23] M3L accepted at WACV 2024.
@@ -53,7 +55,7 @@ permalink:  /
 
 # Bio
 
-I am a Research Engineer at [Avataar.ai](https://www.avataar.ai/) where I work on generative AI and 3D with [Dr. Sohil Shah](https://sites.google.com/site/sas21587/) and [Dr. Shubham Goel](https://shubham-goel.github.io/). I did my MS from the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://deviparikh.com/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
+I am a Researcher at [sarvam.ai](https://www.sarvam.ai/) where I work on Vision Language Models with [Dr. Pratyush Kumar](https://www.linkedin.com/in/pratyush-kumar-8844a8a3/) and [Dr. Vivek Raghavan](https://www.linkedin.com/in/vivek-raghavan-16005424/). I did my MS from the department of Computer Science at Georgia Institute of Technology, advised by [Prof. Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and [Prof. Devi Parikh](https://deviparikh.com/). Before that I was a Data Scientist at [Flipkart](https://www.flipkart.com/) in the Recommendations team supervised by [Dr. Aditya Rachakonda](https://in.linkedin.com/in/adityarachakonda), [Dr. Arnab Bhattacharya](https://www.linkedin.com/in/arnab-bhattacharya-26383573) and previously by [Samik Datta](https://www.linkedin.com/in/samik-datta-7b2a927a/). Prior to joining Flipkart, I completed my undergrad at IIT Delhi advised by [Dr. Prathosh AP](https://sites.google.com/view/prathosh). 
 
 Broadly my interest lies in Computer Vision, Vision + Text, Creative AI. I strongly believe that technology benefits human society and has a lot of potential to improve human lives.
 
@@ -69,11 +71,21 @@ My CV is available [here](https://harshm121.github.io/PDFs/HarshMaheshwari_CV.pd
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
+            <a target="_blank" href="//sarvam.ai"><img src="/images/logos/sarvam.jpeg"></a>
+        </div>
+        <div class="logo-desc">
+            Researcher - Sarvam<br>
+            2025 - Present
+        </div>
+    </div>
+    <div class="col-xs-4">
+        <div class="logo-wrap">
+            <span class="helper"></span>
             <a target="_blank" href="//avataar.ai"><img src="/images/logos/avataar.jpeg"></a>
         </div>
         <div class="logo-desc">
             Research - Avataar<br>
-            2023 - Present
+            2023 - 2025
         </div>
     </div>
     <div class="col-xs-4">
