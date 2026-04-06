@@ -9,8 +9,8 @@ permalink:  /
         <img src="/images/profile.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Research Engineer<br>
-        Avataar<br>
+        Researcher<br>
+        Sarvam<br>
         <h7>Georgia Institute of Technology</h7><br>
         <a target="_blank" href="mailto:harshm121@gmail.com">Email</a> / <a target="_blank" href="https://www.linkedin.com/in/harsh-maheshwari-650039110/">LinkedIn</a>
         <br>
